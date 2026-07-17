@@ -195,6 +195,17 @@
 			"alum": false
 		},
 		{
+			"name": "Nakul Rajpal",
+			"jobTitle": "undergrad",
+			"bio": "Nakul is a Computer Science undergraduate at Northeastern University, minoring in Math. His primary interests are in HCI and social computing, where he is focused on evaluating and developing more inclusive and equitable AI tools.",
+			"links": {
+				"website_url": "https://nakulrajpal.com"
+			},
+			"image": "https://cdn.jsdelivr.net/gh/Social-Futures-Lab/social-futures-lab.github.io@7e113cb0270c2995a1c14c42b93e26fbb7cd3501/images/nakulrajpal.jpg",
+			"@type": "Person",
+			"alum": false
+		},
+    {
 			"name": "Tanjal Shukla",
 			"jobTitle": "undergrad",
 			"bio": "Tanjal is an undergraduate student at the University of Washington studying Computer Science and Computational Finance. His research interests are in safely empowering more capable and trustworthy AI agents.",

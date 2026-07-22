@@ -205,7 +205,7 @@
 			"@type": "Person",
 			"alum": false
 		},
-    {
+		{
 			"name": "Tanjal Shukla",
 			"jobTitle": "undergrad",
 			"bio": "Tanjal is an undergraduate student at the University of Washington studying Computer Science and Computational Finance. His research interests are in safely empowering more capable and trustworthy AI agents.",
@@ -708,6 +708,21 @@
 			"links": {
 				"website_url": "https://www.linkedin.com/in/leon-leibmann-3a70131a3/"
 			},
+			"@type": "Person"
+		},
+		{
+			"name": "Jane Carney",
+			"jobTitle": "intern",
+			"alum": false,
+			"links": {
+				"website_url": "http://www.linkedin.com/in/jane-carney20"
+			},
+			"@type": "Person"
+		},
+		{
+			"jobTitle": "phd",
+			"alum": false,
+			"links": {},
 			"@type": "Person"
 		}
 	]

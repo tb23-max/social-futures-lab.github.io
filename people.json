@@ -712,7 +712,7 @@
 		},
 		{
 			"name": "Jane Carney",
-			"jobTitle": "undergrad",
+			"jobTitle": "intern",
 			"alum": false,
 			"links": {
 				"website_url": "http://www.linkedin.com/in/jane-carney20"
@@ -720,7 +720,7 @@
 			"@type": "Person"
 		},
 		{
-			"jobTitle": "undergrad",
+			"jobTitle": "intern",
 			"alum": false,
 			"links": {},
 			"@type": "Person",
